@@ -7,7 +7,8 @@ const Intro = () => {
         Wbdvlpmnt
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A collection of thoughts, learning and experiences
+        A collection of thoughts, learning and experiences in full stack web
+        development
       </h4>
     </section>
   );
