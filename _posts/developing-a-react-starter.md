@@ -10,7 +10,6 @@ ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
 
-cp -r react-redux shopping-client
 
 ## Lorem Ipsum
 
