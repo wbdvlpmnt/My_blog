@@ -14,7 +14,13 @@ const Footer = () => {
               href={`https://github.com/wbdvlpmnt`}
               className="mx-3 font-bold hover:underline"
             >
-              View my Github
+              Check out my code Github
+            </a>
+            <a
+              href={`https://instagram.com/wbdvlpmnt`}
+              className="my-1 mx-3 font-bold hover:underline"
+            >
+              View my posts on Instagram
             </a>
           </div>
         </div>
