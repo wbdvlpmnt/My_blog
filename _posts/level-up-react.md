@@ -1,6 +1,6 @@
 ---
 title: "Elevating My React Journey: From Fundamentals to Advanced Mastery"
-excerpt: "React.js is a widely adopted javascript frontend framework. It's popularity has positioned itself as a framework job seekers should be familiar with to better their chances of landing their next opportunity. Here is how you can improve your knowledge of React.js"
+excerpt: "React.js is a widely adopted javascript frontend framework. It's popularity has positioned itself as a framework developers should be familiar with to better their chances of landing their next opportunity. Here is how you can improve your knowledge of React.js"
 coverImage: "/assets/blog/learning/learning.jpg"
 date: "2023-12-28T19:03:31.760Z"
 author:
