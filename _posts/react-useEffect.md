@@ -1,13 +1,13 @@
 ---
 title: "The React useEffect Hook"
 excerpt: "The useState hook in React is used in functional components to synchronize the component with an external system. useEffect fetches data after component mount in a React functional component. The empty dependency array ensures it runs once. Optional cleanup handles unmounting."
-coverImage: "/assets/blog/laptop/laptop.jpg"
+coverImage: "/assets/blog/data/data.jpg"
 date: "2023-12-30T17:07:43.722Z"
 author:
   name: Jai Gokhale
   picture: "/assets/blog/authors/jg.png"
 ogImage:
-  url: "/assets/blog/laptop/laptop.jpg"
+  url: "/assets/blog/data/data.jpg"
 ---
 
 The useEffect hook is a feature in React, a JavaScript library for building user interfaces. It is used to perform side effects in functional components.
