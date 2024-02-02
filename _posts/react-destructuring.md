@@ -2,7 +2,7 @@
 title: "Destructuring"
 excerpt: "Destructuring allows you to extract values from objects or arrays in a concise and efficient way."
 coverImage: "/assets/blog/laptop/laptop.jpg"
-date: "2024-1-30T17:07:43.722Z"
+date: "2024-01-30T17:07:43.722Z"
 author:
   name: Jai Gokhale
   picture: "/assets/blog/authors/jg.png"
